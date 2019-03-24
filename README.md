@@ -35,6 +35,10 @@ Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octi
 
 ## Other
 
+### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+Launch a development local Server with live reload feature for static & dynamic pages
+![Live Server](https://github.com/ritwickdey/vscode-live-server/raw/master/images/Screenshot/vscode-live-server-animated-demo.gif)
+
 ### [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 📸 Polaroid for your code
 ![Polacode](https://github.com/octref/polacode/raw/master/demo/usage.gif)
