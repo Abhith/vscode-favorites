@@ -39,6 +39,10 @@ Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octi
 Launch a development local Server with live reload feature for static & dynamic pages
 ![Live Server](https://github.com/ritwickdey/vscode-live-server/raw/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 
+### [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+Visual Studio Code plugin that autocompletes npm modules in import statements
+![npm Intellisense](https://raw.githubusercontent.com/ChristianKohler/NpmIntellisense/master/images/auto_complete.gif)
+
 ### [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 📸 Polaroid for your code
 ![Polacode](https://github.com/octref/polacode/raw/master/demo/usage.gif)
