@@ -47,6 +47,10 @@ Visual Studio Code plugin that autocompletes npm modules in import statements
 📸 Polaroid for your code
 ![Polacode](https://github.com/octref/polacode/raw/master/demo/usage.gif)
 
+### [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
+![Peacock](https://github.com/johnpapa/vscode-peacock/raw/master/resources/peacock-windows.png)
+
 ## Themes
 
 ### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
