@@ -38,6 +38,10 @@ Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octi
 
 ## Other
 
+### [indent-rainbow](https://marketplace.visualstudio.com/itemdetails?itemName=oderwat.indent-rainbow)
+Makes indentation easier to read. This extension colorizes the indentation in front of your text alternating four different colors on each step.  
+![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
+
 ### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 Launch a development local Server with live reload feature for static & dynamic pages
 ![Live Server](https://github.com/ritwickdey/vscode-live-server/raw/master/images/Screenshot/vscode-live-server-animated-demo.gif)
