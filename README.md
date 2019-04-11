@@ -38,6 +38,10 @@ Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octi
 
 ## Other
 
+### [Highlight Matching Tag](https://marketplace.visualstudio.com/itemdetails?itemName=vincaslt.highlight-matching-tag)
+Highlights matching closing or opening tag  
+![Highlight Matching Tag](https://images2.imgbox.com/71/2a/zIA1XCzK_o.gif)
+
 ### [indent-rainbow](https://marketplace.visualstudio.com/itemdetails?itemName=oderwat.indent-rainbow)
 Makes indentation easier to read. This extension colorizes the indentation in front of your text alternating four different colors on each step.  
 ![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
