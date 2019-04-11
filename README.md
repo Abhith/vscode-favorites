@@ -29,6 +29,9 @@ Angular v7 snippets by John Papa
 Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.
 ![Document This](https://raw.githubusercontent.com/joelday/vscode-docthis/master/images/demo.gif)
 
+### [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/itemdetails?itemName=dsznajder.es7-react-js-snippets)
+Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
+
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!  
 ![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-icon-fonts/master/images/screenshot.gif)
