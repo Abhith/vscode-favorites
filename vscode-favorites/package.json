@@ -1,47 +1,48 @@
 {
-    "name": "vscode-favorites",
-    "displayName": "vscode-favorites",
-    "description": "Abhith's favorite vscode extensions",
-    "version": "1.0.0",
-    "publisher": "abhith",
-    "engines": {
-        "vscode": "^1.37.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Abhith/vscode-favorites"
-    },
-    "extensionPack": [ 
-        "msjsdiag.debugger-for-chrome",
-        "xabikos.JavaScriptSnippets",
-        "wix.vscode-import-cost",
-        "dbaeumer.vscode-eslint",
-        "ms-vscode.vscode-typescript-tslint-plugin",
-        "joelday.docthis",
-        "dsznajder.es7-react-js-snippets",
-        "idleberg.icon-fonts",
-        "vincaslt.highlight-matching-tag",
-        "oderwat.indent-rainbow",
-        "ritwickdey.LiveServer",
-        "yzhang.markdown-all-in-one",
-        "DavidAnson.vscode-markdownlint",
-        "mdickin.markdown-shortcuts",
-        "christian-kohler.npm-intellisense",
-        "pnp.polacode",
-        "johnpapa.vscode-peacock",
-        "ChakrounAnas.turbo-console-log",
-        "PKief.material-icon-theme",
-        "Equinusocio.vsc-material-theme",
-        "CoenraadS.bracket-pair-colorizer-2",
-        "aaron-bond.better-comments",
-        "alefragnani.Bookmarks",
-        "streetsidesoftware.code-spell-checker",
-        "donjayamanne.githistory",
-        "eamodio.gitlens",
-        "christian-kohler.path-intellisense",
-        "esbenp.prettier-vscode"
-    ]
+  "name": "vscode-favorites",
+  "displayName": "vscode-favorites",
+  "description": "Abhith's favorite vscode extensions",
+  "version": "1.0.0",
+  "publisher": "abhith",
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abhith/vscode-favorites"
+  },
+  "extensionPack": [
+    "msjsdiag.debugger-for-chrome",
+    "xabikos.JavaScriptSnippets",
+    "wix.vscode-import-cost",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "johnpapa.Angular2",
+    "joelday.docthis",
+    "dsznajder.es7-react-js-snippets",
+    "idleberg.icon-fonts",
+    "vincaslt.highlight-matching-tag",
+    "oderwat.indent-rainbow",
+    "ritwickdey.LiveServer",
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint",
+    "mdickin.markdown-shortcuts",
+    "christian-kohler.npm-intellisense",
+    "pnp.polacode",
+    "johnpapa.vscode-peacock",
+    "ChakrounAnas.turbo-console-log",
+    "PKief.material-icon-theme",
+    "Equinusocio.vsc-material-theme",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "aaron-bond.better-comments",
+    "alefragnani.Bookmarks",
+    "streetsidesoftware.code-spell-checker",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode"
+  ]
 }

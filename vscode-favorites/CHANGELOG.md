@@ -6,6 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Added
+
+- Angular Snippets (Version 8)
+
+### Changed
+
+- Readme updated with list of extensions.
+
 ## [1.0.0] - 2019-08-14
 
 - Initial release
