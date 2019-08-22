@@ -11,6 +11,7 @@ Abhith's favorite extensions for Visual Studio Code. It includes,
   - [Programming Languages](#programming-languages)
     - [ESLint](#eslint)
     - [TSLint](#tslint)
+    - [Vetur](#vetur)
   - [Snippets](#snippets)
     - [Angular Snippets (Version 8)](#angular-snippets-version-8)
     - [Document This](#document-this)
@@ -85,6 +86,14 @@ Abhith's favorite extensions for Visual Studio Code. It includes,
 [![TSLint](https://vsmarketplacebadge.apphb.com/rating-short/ms-vscode.vscode-typescript-tslint-plugin.svg)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
 [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) support for Visual Studio Code
+
+### Vetur
+
+[![Vetur](https://vsmarketplacebadge.apphb.com/version-short/octref.vetur.svg)](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+[![Vetur](https://vsmarketplacebadge.apphb.com/installs-short/octref.vetur.svg)](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+[![Vetur](https://vsmarketplacebadge.apphb.com/rating-short/octref.vetur.svg)](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+
+Vue tooling for VS Code
 
 ## Snippets
 

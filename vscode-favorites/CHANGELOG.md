@@ -9,6 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Angular Snippets (Version 8)
+- Vetur
 
 ### Changed
 

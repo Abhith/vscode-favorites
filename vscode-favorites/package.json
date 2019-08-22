@@ -20,6 +20,7 @@
     "wix.vscode-import-cost",
     "dbaeumer.vscode-eslint",
     "ms-vscode.vscode-typescript-tslint-plugin",
+    "octref.vetur",
     "johnpapa.Angular2",
     "joelday.docthis",
     "dsznajder.es7-react-js-snippets",
