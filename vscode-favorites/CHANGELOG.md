@@ -6,10 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.0] - 2019-08-31
+
 ### Added
 
 - Angular Snippets (Version 8)
 - Vetur
+- Auto Rename Tag
+- Version Lens
+- Dracula Official
 
 ### Changed
 

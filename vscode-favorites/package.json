@@ -2,7 +2,7 @@
   "name": "vscode-favorites",
   "displayName": "vscode-favorites",
   "description": "Abhith's favorite vscode extensions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "abhith",
   "engines": {
     "vscode": "^1.37.0"
@@ -25,6 +25,7 @@
     "joelday.docthis",
     "dsznajder.es7-react-js-snippets",
     "idleberg.icon-fonts",
+    "formulahendry.auto-rename-tag",
     "vincaslt.highlight-matching-tag",
     "oderwat.indent-rainbow",
     "ritwickdey.LiveServer",
@@ -35,6 +36,8 @@
     "pnp.polacode",
     "johnpapa.vscode-peacock",
     "ChakrounAnas.turbo-console-log",
+    "pflannery.vscode-versionlens",
+    "dracula-theme.theme-dracula",
     "PKief.material-icon-theme",
     "Equinusocio.vsc-material-theme",
     "CoenraadS.bracket-pair-colorizer-2",
