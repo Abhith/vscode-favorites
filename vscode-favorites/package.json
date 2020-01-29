@@ -21,6 +21,7 @@
     "wix.vscode-import-cost",
     "ms-vscode.csharp",
     "dbaeumer.vscode-eslint",
+    "ms-mssql.mssql",
     "ms-vscode.vscode-typescript-tslint-plugin",
     "octref.vetur",
     "johnpapa.Angular2",

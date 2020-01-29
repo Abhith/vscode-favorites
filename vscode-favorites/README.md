@@ -13,6 +13,7 @@ Abhith's favorite extensions for Visual Studio Code. It includes,
   - [Programming Languages](#programming-languages)
     - [C&#35](#c35)
     - [ESLint](#eslint)
+    - [SQL Server (mssql)](#sql-server-mssql)
     - [TSLint](#tslint)
     - [Vetur](#vetur)
   - [Snippets](#snippets)
@@ -103,6 +104,14 @@ Abhith's favorite extensions for Visual Studio Code. It includes,
 [![ESLint](https://vsmarketplacebadge.apphb.com/rating-short/dbaeumer.vscode-eslint.svg)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) integrates ESLint JavaScript into VS Code.
+
+### SQL Server (mssql)
+
+[![SQL Server (mssql)](https://vsmarketplacebadge.apphb.com/version-short/ms-mssql.mssql.svg)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+[![SQL Server (mssql)](https://vsmarketplacebadge.apphb.com/installs-short/ms-mssql.mssql.svg)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+[![SQL Server (mssql)](https://vsmarketplacebadge.apphb.com/rating-short/ms-mssql.mssql.svg)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+
+[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) enables to develop Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse on VS Code.
 
 ### TSLint
 
