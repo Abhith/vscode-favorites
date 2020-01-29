@@ -11,6 +11,7 @@ Abhith's favorite extensions for Visual Studio Code. It includes,
     - [JavaScript (ES6) code snippets](#javascript-es6-code-snippets)
     - [Import Cost](#import-cost)
   - [Programming Languages](#programming-languages)
+    - [C&#35](#c35)
     - [ESLint](#eslint)
     - [TSLint](#tslint)
     - [Vetur](#vetur)
@@ -85,6 +86,14 @@ Abhith's favorite extensions for Visual Studio Code. It includes,
 [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) display import/require package size in the editor
 
 ## Programming Languages
+
+### C&#35
+
+[![C#](https://vsmarketplacebadge.apphb.com/version-short/ms-vscode.csharp.svg)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+[![C#](https://vsmarketplacebadge.apphb.com/installs-short/ms-vscode.csharp.svg)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+[![C#](https://vsmarketplacebadge.apphb.com/rating-short/ms-vscode.csharp.svg)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+
+[C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) for Visual Studio Code (powered by OmniSharp)..
 
 ### ESLint
 

@@ -19,6 +19,7 @@
     "msjsdiag.debugger-for-chrome",
     "xabikos.JavaScriptSnippets",
     "wix.vscode-import-cost",
+    "ms-vscode.csharp",
     "dbaeumer.vscode-eslint",
     "ms-vscode.vscode-typescript-tslint-plugin",
     "octref.vetur",
