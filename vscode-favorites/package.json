@@ -2,7 +2,7 @@
   "name": "vscode-favorites",
   "displayName": "vscode-favorites",
   "description": "Abhith's favorite vscode extensions",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "abhith",
   "engines": {
     "vscode": "^1.37.0"
