@@ -3,6 +3,8 @@
 Abhith's favorite extensions for Visual Studio Code. It includes,
 
 - [vscode-favorites](#vscode-favorites)
+  - [Azure](#azure)
+    - [Azure Pipelines](#azure-pipelines)
   - [Debuggers](#debuggers)
     - [Debugger for Chrome](#debugger-for-chrome)
   - [JavaScript](#javascript)
@@ -43,6 +45,16 @@ Abhith's favorite extensions for Visual Studio Code. It includes,
     - [GitLens — Git supercharged](#gitlens--git-supercharged)
     - [Path Intellisense](#path-intellisense)
     - [Prettier - Code formatter](#prettier---code-formatter)
+
+## Azure
+
+### Azure Pipelines
+
+[![Azure Pipelines](https://vsmarketplacebadge.apphb.com/version-short/ms-azure-devops.azure-pipelines.svg)](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+[![Azure Pipelines](https://vsmarketplacebadge.apphb.com/installs-short/ms-azure-devops.azure-pipelines.svg)](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+[![Azure Pipelines](https://vsmarketplacebadge.apphb.com/rating-short/ms-azure-devops.azure-pipelines.svg)](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+
+[Azure Pipelines](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) provides Syntax highlighting, IntelliSense, and more for Azure Pipelines YAML.
 
 ## Debuggers
 

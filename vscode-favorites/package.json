@@ -15,6 +15,7 @@
     "url": "https://github.com/Abhith/vscode-favorites"
   },
   "extensionPack": [
+    "ms-azure-devops.azure-pipelines",
     "msjsdiag.debugger-for-chrome",
     "xabikos.JavaScriptSnippets",
     "wix.vscode-import-cost",
