@@ -31,6 +31,7 @@ Abhith's favorite extensions for Visual Studio Code. It includes,
     - [npm Intellisense](#npm-intellisense)
     - [Polacode](#polacode)
     - [Peacock](#peacock)
+    - [Todo Tree](#todo-tree)
     - [Turbo Console Log](#turbo-console-log)
     - [Version Lens](#version-lens)
   - [Themes](#themes)
@@ -234,6 +235,14 @@ Vue tooling for VS Code
 [![Peacock](https://vsmarketplacebadge.apphb.com/rating-short/johnpapa.vscode-peacock.svg)](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
+
+### Todo Tree
+
+[![Todo Tree](https://vsmarketplacebadge.apphb.com/version-short/Gruntfuggly.todo-tree.svg)](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+[![Todo Tree](https://vsmarketplacebadge.apphb.com/installs-short/Gruntfuggly.todo-tree.svg)](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+[![Todo Tree](https://vsmarketplacebadge.apphb.com/rating-short/Gruntfuggly.todo-tree.svg)](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+[Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) show TODO, FIXME, etc. comment tags in a tree view.
 
 ### Turbo Console Log
 
